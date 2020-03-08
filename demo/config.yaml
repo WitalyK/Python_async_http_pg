@@ -1,0 +1,2 @@
+site_name: 'Demo site'
+database_uri: postgresql://postgres:sql@localhost:5432/demo
